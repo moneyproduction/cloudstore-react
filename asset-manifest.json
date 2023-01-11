@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cloudstore-react/static/css/main.e8a1b342.css",
+    "main.js": "/cloudstore-react/static/js/main.010dcb99.js",
+    "static/media/truck.gif": "/cloudstore-react/static/media/truck.c2c1656828dd16f235b2.gif",
+    "static/media/garantiya.gif": "/cloudstore-react/static/media/garantiya.dbbb6b9c01a3c7f2b2ef.gif",
+    "static/media/loader.gif": "/cloudstore-react/static/media/loader.1af1f30287d278fbfa9b.gif",
+    "static/media/boxopen.gif": "/cloudstore-react/static/media/boxopen.e01fa5efc0d5a3a460d3.gif",
+    "static/media/order.gif": "/cloudstore-react/static/media/order.98d28d9f75eb64197e33.gif",
+    "static/media/banner.jpg": "/cloudstore-react/static/media/banner.e5c288f7e585dc28b3a8.jpg",
+    "static/media/cloud.gif": "/cloudstore-react/static/media/cloud.98233e33721caeec3a54.gif",
+    "static/media/search.gif": "/cloudstore-react/static/media/search.ea77130212d6faf595f5.gif",
+    "static/media/errorsmile.png": "/cloudstore-react/static/media/errorsmile.fc72c7302505b08fcc87.png",
+    "static/media/instagram.svg": "/cloudstore-react/static/media/instagram.6305f3e9d9b10c1c6a0f60de2db89bc2.svg",
+    "static/media/notfound1.png": "/cloudstore-react/static/media/notfound1.02f4cdc3569016fae677.png",
+    "static/media/twitter.svg": "/cloudstore-react/static/media/twitter.fd09368ed2b778a21d10b55b88cdac5c.svg",
+    "static/media/facebook.svg": "/cloudstore-react/static/media/facebook.23def406b512e964409fc8d2a435acd9.svg",
+    "index.html": "/cloudstore-react/index.html",
+    "main.e8a1b342.css.map": "/cloudstore-react/static/css/main.e8a1b342.css.map",
+    "main.010dcb99.js.map": "/cloudstore-react/static/js/main.010dcb99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a1b342.css",
+    "static/js/main.010dcb99.js"
+  ]
+}
