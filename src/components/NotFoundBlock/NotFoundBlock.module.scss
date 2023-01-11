@@ -1,0 +1,11 @@
+.root{
+    text-align: center;
+    padding: 90px;
+}
+.imgNot{
+    text-align: center;
+    padding: 100px;
+     @media (max-width: 645px) {
+    padding: 50px;
+  }
+}
